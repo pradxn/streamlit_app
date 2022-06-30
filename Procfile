@@ -1,0 +1,1 @@
+web : setup.sh && streamlit run predict_reviews.py
